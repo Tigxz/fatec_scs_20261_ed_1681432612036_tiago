@@ -1,3 +1,13 @@
+'''
+*---------------------------------------------------------------*
+*       Fatec São Caetano do Sul                                *
+*       Atividade B2-3                                          *
+*       Autor: Tiago Bondezan Bazani                            *
+*       Objetivo: Raizes de Arvore                              * 
+*                                                               *  
+*       data: 11/05/2026                                        *
+*---------------------------------------------------------------*
+'''
 class No:
     def __init__(self, valor):
         self.valor = valor
